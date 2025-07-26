@@ -1,0 +1,24 @@
+2025-Jul-26-05:00:15, ETL Job has started
+2025-Jul-26-05:00:15, Extarct step started
+2025-Jul-26-05:01:20, ETL Job has started
+2025-Jul-26-05:01:20, Extarct step started
+2025-Jul-26-05:03:16, ETL Job has started
+2025-Jul-26-05:03:16, Extarct step started
+2025-Jul-26-05:05:18, ETL Job has started
+2025-Jul-26-05:05:18, Extarct step started
+2025-Jul-26-05:05:18, Extarct step ended
+2025-Jul-26-05:05:18, The tarnsform step started
+2025-Jul-26-05:05:38, ETL Job has started
+2025-Jul-26-05:05:38, Extarct step started
+2025-Jul-26-05:05:38, Extarct step ended
+2025-Jul-26-05:05:38, The tarnsform step started
+2025-Jul-26-05:05:38, The tarnsform step ended
+2025-Jul-26-05:05:38, The Load step started
+2025-Jul-26-05:06:00, ETL Job has started
+2025-Jul-26-05:06:00, Extarct step started
+2025-Jul-26-05:06:00, Extarct step ended
+2025-Jul-26-05:06:00, The tarnsform step started
+2025-Jul-26-05:06:00, The tarnsform step ended
+2025-Jul-26-05:06:00, The Load step started
+2025-Jul-26-05:06:00, The Load step ended
+2025-Jul-26-05:06:00, ETL Job Ended
