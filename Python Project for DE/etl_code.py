@@ -84,10 +84,3 @@ log_process("The Load step ended")
 
 # Log the completion of the ETL process 
 log_process("ETL Job Ended") 
-
-
-
-
-
-
-    
