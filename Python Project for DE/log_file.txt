@@ -22,3 +22,11 @@
 2025-Jul-26-05:06:00, The Load step started
 2025-Jul-26-05:06:00, The Load step ended
 2025-Jul-26-05:06:00, ETL Job Ended
+2025-Jul-26-05:52:54, ETL Job has started
+2025-Jul-26-05:52:54, Extarct step started
+2025-Jul-26-05:52:54, Extarct step ended
+2025-Jul-26-05:52:54, The tarnsform step started
+2025-Jul-26-05:52:54, The tarnsform step ended
+2025-Jul-26-05:52:54, The Load step started
+2025-Jul-26-05:52:54, The Load step ended
+2025-Jul-26-05:52:54, ETL Job Ended

@@ -28,14 +28,14 @@ def extract_from_xml(file_to_process):
 def extract():
     extracted_data = pd.DataFrame(columns=["name", "height", "weight"])
 
-    for csvfile in glob.glob("*.csv"):
+    for csvfile in glob.glob("source/*.csv"):
         if csvfile != target_file:
             extracted_data = pd.concat([extracted_data, pd.DataFrame(extract_from_csv(csvfile))], ignore_index=True)
     
-    for jsonfile in glob.glob("*.json"):
+    for jsonfile in glob.glob("source/*.json"):
         extracted_data = pd.concat([extracted_data, pd.DataFrame(extract_from_json(jsonfile))], ignore_index=True)
 
-    for xmlfile in glob.glob("*.xml"):
+    for xmlfile in glob.glob("source/*.xml"):
         extracted_data = pd.concat([extracted_data, pd.DataFrame(extract_from_json(jsonfile))], ignore_index=True)
 
     return extracted_data
