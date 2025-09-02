@@ -16,5 +16,5 @@
 <kbd>Database Administration</kbd>
 <kbd>Extract, Transform, Load</kbd>
 <kbd>IBM Cognos Analytics</kbd>
-<kbd><SparkSQL/kbd>
+<kbd>SparkSQL</kbd>
 <kbd>MongoDB</kbd>
