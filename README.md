@@ -1,4 +1,4 @@
-# IBM-Data-Engineering Professional Certificate program
+# IBM-Data-Engineering Professional Certificate Program
 ### What I'll learn
 1) Master the most up-to-date practical skills and knowledge data engineers use in their daily roles
 2) Learn to create, design, & manage relational databases & apply database administration (DBA) concepts to RDBMSs such as MySQL, PostgreSQL, & IBM Db2 
