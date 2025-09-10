@@ -1,0 +1,3 @@
+Hello World
+Trying to edit text using nano. Wish me luck!!!
+This is line three of my new file.
